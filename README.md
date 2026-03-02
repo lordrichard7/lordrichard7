@@ -7,23 +7,31 @@ I’m eager to learn about **data-driven trading strategies**, financial modelin
 
 ## 📚 Skills & Tools I'm learning
 - Python, Pandas, NumPy, Matplotlib, Scikit-Learn  
-- Time Series Analysis & Forecasting  
-- Algorithmic Trading & Backtesting  
-- Portfolio Optimization & Risk Management  
+- Time Series Analysis & Forecasting
+<!--  
+- Algorithmic Trading & Backtesting
+- Portfolio Optimization & Risk Management
+-->
 
 ---
 
 ## 💼 Projects I'm working on
 Some of my current learning projects:  
+- **Analysis of Financial Volatility** – a Bayesian inference approach.  
+- **Evaluation of Financial Assets Performance Ratios** – inference on some estimators.
+<!-- 
 - **Trading Strategy Backtests** – experimenting with simple strategies on historical data.  
 - **Portfolio Optimization Models** – learning how to build and analyze portfolios.  
-- **Financial Time Series Analysis** – exploring forecasting and market modeling.
+- **Financial Time Series Analysis** – exploring forecasting and market modeling.'
+-->
 
 ---
 
 ## 🌱 Current Learning Goals
 - Gain practical knowledge in **Quantitative Finance** and Machine Learning  
-- Build real-world **trading simulations**  
+<!--
+- Build real-world **trading simulations**
+-->
 - Develop skills to become a **Quant Trader**
 
 ---
