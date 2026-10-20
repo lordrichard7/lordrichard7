@@ -37,5 +37,5 @@ Some of my current learning projects:
 ---
 
 ## 📫 Connect with me
-- LinkedIn: [https://www.linkedin.com/in/riccardo-angeloni-95463a279/]  
-- Email: [riccardoangeloni7@gmail.com]
+- LinkedIn: [www.linkedin.com/in/riccardo-angeloni]  
+- Email: [riccardoangeloni.quant@gmail.com]
